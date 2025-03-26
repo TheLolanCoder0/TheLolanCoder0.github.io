@@ -1,0 +1,31 @@
+h1 {
+    font-size: 5em;
+}
+nav {
+    top: 0;
+    
+}
+a {
+    display: inline-block;
+    border: 5px solid black;
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    font-size: 2em;
+}
+h2 {
+    font-size: 3em;
+}
+p {
+    font-size: 2em;
+}
+input {
+    width: 500px;
+}
+label {
+    display: block;
+}
+div {
+    margin-top: 20px;
+}
